@@ -13,6 +13,6 @@ console.log(world);  // world!
 message = "JavaScript is fun!";
 let lastWord = message.slice(-4);
 
-console.log(lastWord);  // fun!
+console.log(lastWord);  // fun!+
 
 
